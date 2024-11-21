@@ -1,0 +1,19 @@
+.odds {
+    background-color: pink;
+    font-family: verdana, 'DejaVu Sans', sans-serif;
+}
+
+.odds.best {
+    font-size: 36px;
+}
+
+#numbaTwo {
+    color: blue;
+    font-size: 32px;
+}
+
+#numbaFour {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
